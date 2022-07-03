@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="light_gray">#CCCCCC</color>
+    <color name="near_black">#222222</color>
+    <color name="zebra_blue">#00769F</color>
+    <color name="zebra_yellow">#FFD200</color>
+
+    <color name="gifSkyColor">#E7F4F7</color>
+
+    <color name="sig__default_background">#FAFAFA</color>
+
+    <color name="sig__default_baseline">#DE000000</color>
+
+    <color name="sig__default_signature">#8A8A8A</color>
+
+
+    <dimen name="sig__default_dialog_input_view_height">125dip</dimen>
+
+    <dimen name="sig__default_baseline_height">1dip</dimen>
+
+    <dimen name="sig__default_baseline_padding_horizontal">16dip</dimen>
+
+    <dimen name="sig__default_baseline_padding_bottom">12dip</dimen>
+
+    <dimen name="sig__default_baseline_x_mark">12dip</dimen>
+
+    <dimen name="sig__default_baseline_x_mark_offset_vertical">10dip</dimen>
+
+    <dimen name="sig__default_signature_stroke">2dip</dimen>
+
+    <dimen name="sig__default_dialog_action_undo">45dip</dimen>
+
+    <dimen name="sig__default_dialog_action_undo_padding">12dip</dimen>
+
+
+
+    <!--  <color name="colorPrimary">#F27175</color>
+      <color name="colorPrimaryDark">#ED6D6D</color>
+      <color name="colorAccent">#666666</color>-->
+
+    <!--//<color name="colorAccent">#666666</color>-->
+    <!--<color name="colorPrimary">#FFFFFF</color>-->
+    <!--<color name="colorPrimaryDark">#FFFFFF</color>-->
+    <!--<color name="cardView_color">#F6F6F6</color>-->
+    <!--<color name="cardView_font_color">#666666</color>-->
+
+
+    <color name="cardView_color">#F6F6F6</color>
+    <color name="cardView_font_color">#666666</color>
+    <color name="formtitlecolor">#F27175</color>
+    <color name="status_bar_color">#ED6D6D</color>
+    <color name="peach">#ED6D6D</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="TabIndicator">#FF00ccff</color>
+    <color name="textColour">#808080</color>
+    <color name="redfordropdown">#EA5959</color>
+    <color name="greenfordropdown">#4DBD85</color>
+    <color name="bluecolor">#1fa0d2</color>
+    <color name="albumtitle">#333333</color>
+    <color name="background">#ecf0f1</color>
+    <color name="green">#008000</color>
+
+    <color name="albumsubname">#666666</color>
+
+    <color name="albumgridbordercolor">#D1D1D1</color>
+    <color name="gray">#aa808080</color>
+
+
+    <color name="accent_material_dark">@color/material_deep_teal_200</color>
+    <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="action_bar_bg">#0000</color>
+    <color name="actionbar_title">#333333</color>
+    <color name="add_contact_selected">#0076b1</color>
+    <color name="alerts_notification">#dbdbdb</color>
+    <color name="almost_white">#f5f5f5</color>
+    <color name="auto_suggest_item_bg">#f2f2f2</color>
+    <color name="auto_suggest_sub_header_bg">#e7e7e7</color>
+    <color name="background_floating_material_dark">@color/material_grey_800</color>
+
+    <color name="background_light_grey">#fafafa</color>
+    <color name="background_material_dark">@color/material_grey_850</color>
+    <color name="background_material_light">@color/material_grey_50</color>
+    <color name="background_tab">#0093dd</color>
+    <color name="background_tab_clicked">#073665</color>
+    <color name="bg_gplus">#dc4a38</color>
+
+    <color name="booknow_cancelled_color">#e15a6a</color>
+    <color name="booknow_completed_color">#bfbfbf</color>
+    <color name="booknow_inprogress_color">#3fbb43</color>
+    <color name="booknow_schedule_color">#ffa95a</color>
+    <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#80000000</color>
+    <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light
+    </color>
+    <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark
+    </color>
+
+    <color name="browse_cat_text_color">#0093dd</color>
+    <color name="button_background_green">#0faa13</color>
+    <color name="button_blue">#007ebe</color>
+    <color name="button_blue_chat">#0294dd</color>
+    <color name="button_dark_grey">#666666</color>
+    <color name="button_green">#0faa13</color>
+    <color name="button_grey">#eeeeee</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#ffd6d7d7</color>
+    <color name="button_orange_dark">#f54523</color>
+    <color name="button_yellow">#fcec52</color>
+    <color name="car_bg">#26d8d8d8</color>
+    <color name="cardview_dark_background">#ff424242</color>
+    <color name="cardview_light_background">#ffffffff</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="cash_back_tv_color">#ff666666</color>
+    <color name="cat_divider">#eeeeee</color>
+    <color name="chat_received_msg_color">#fefefe</color>
+    <color name="chat_sending_msg_color">#f1fced</color>
+    <color name="chat_sent_msg_color">#ddf1d8</color>
+    <color name="chat_server_msg_bg">#eef5f9</color>
+    <color name="chat_status_text">#848484</color>
+    <color name="circular_progress_default_background">#787878</color>
+    <color name="circular_progress_default_background1">#cdcdcd</color>
+    <color name="circular_progress_default_progress">#00bfff</color>
+    <color name="circular_progress_default_progress1">#0faa13</color>
+    <color name="circular_progress_default_subtitle">#d1d1d1</color>
+    <color name="circular_progress_default_subtitle1">#d1d1d1</color>
+    <color name="circular_progress_default_title">#00bfff</color>
+    <color name="circular_progress_default_title1">#0faa13</color>
+    <color name="cityseparator">#bdbdbd</color>
+    <color name="cnb_homescreen_header_color">#ff1e2023</color>
+    <color name="cnb_homescreen_statusbar_color">#ff181a1c</color>
+    <color name="cnb_inspection_helps_color">#333333</color>
+    <color name="cnb_inspection_para_color">#666666</color>
+    <color name="cnb_inspection_progress_bg_color">#dfdfe2</color>
+    <color name="cnb_inspection_title_color">#0073c0</color>
+    <color name="cnb_menuitem_default_color">#ff000000</color>
+
+    <color name="color_blue">#008bcf</color>
+    <color name="com_facebook_blue">#3b5998</color>
+    <color name="com_facebook_button_background_color">#415dae</color>
+    <color name="com_facebook_button_background_color_disabled">#bdc1c9</color>
+    <color name="com_facebook_button_background_color_pressed">#2f477a</color>
+    <color name="com_facebook_button_like_background_color_selected">#7c8fc8</color>
+    <color name="com_facebook_button_login_silver_background_color">#f4f6f8</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+    <color name="com_facebook_button_send_background_color">#0084ff</color>
+    <color name="com_facebook_button_send_background_color_pressed">#006fff</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_share_button_text_color">#ffffff</color>
+    <color name="com_truecaller_truebutton_background">#0091ea</color>
+
+    <color name="common_google_signin_btn_text_dark_disabled">#1f000000</color>
+
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1f000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#de000000</color>
+    <color name="connecting">#ffc107</color>
+    <color name="dark_green">#ff003015</color>
+    <color name="dark_grey">#ff666666</color>
+    <color name="dark_grey_overlay">#80414141</color>
+    <color name="darker_grey">#676767</color>
+
+    <color name="design_fab_shadow_mid_color">#14000000</color>
+    <color name="design_fab_shadow_start_color">#44000000</color>
+    <color name="design_fab_stroke_end_inner_color">#0a000000</color>
+    <color name="design_fab_stroke_end_outer_color">#0f000000</color>
+    <color name="design_fab_stroke_top_inner_color">#1affffff</color>
+    <color name="design_fab_stroke_top_outer_color">#2effffff</color>
+    <color name="design_snackbar_background_color">#323232</color>
+    <color name="design_textinput_error_color_dark">#ffff6e6e</color>
+    <color name="design_textinput_error_color_light">#ffd50000</color>
+    <color name="dialog_services_bg">#30909090</color>
+    <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
+    <color name="dim_foreground_disabled_material_light">#80323232</color>
+    <color name="dim_foreground_material_dark">#ffbebebe</color>
+    <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="divider_grey">#66666666</color>
+    <color name="escrow_vap_benefits_bg">#f9f9f9</color>
+    <color name="escrow_vap_benifits_bg">#fff2f8fc</color>
+    <color name="exp_list_divider">#dddddd</color>
+    <color name="exp_list_header">#eeeeee</color>
+    <color name="exp_list_item">#e7e7e7</color>
+    <color name="filecolor">#e4e4e4</color>
+    <color name="filter_reset_color">#de007fbf</color>
+
+    <color name="gmr_border">#e9d940</color>
+    <color name="gmr_button_clickable">#fcec52</color>
+    <color name="gmr_layout_bg">#f7fcff</color>
+
+    <color name="greenEnd">#ff75bb0f</color>
+    <color name="greenStart">#ff75bb0f</color>
+    <color name="green_1">#ff0faa14</color>
+    <color name="grey_bg">#ffededed</color>
+    <color name="grey_separator">#ffdfdfdf</color>
+    <color name="header_blue_strip">#0093dd</color>
+    <color name="header_grey_rateUs">#0a7d7d7d</color>
+    <color name="heading_blue">#0093dd</color>
+    <color name="help_line_number_color">#008bcf</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+    <color name="home_cat_item_location">#858585</color>
+    <color name="home_cat_item_title">#1c1d1e</color>
+    <color name="home_cat_title">#2c2f30</color>
+    <color name="ins_light_grey">#ffe1e1e1</color>
+    <color name="inst_yellow">#ffffff00</color>
+    <color name="instaconnect_call_widget_green_shadow">#7743c13b</color>
+    <color name="instaconnect_call_widget_green_stroke">#43c13b</color>
+    <color name="instaconnect_call_widget_yellow_shadow">#77ffb300</color>
+    <color name="instaconnect_call_widget_yellow_stroke">#ffb300</color>
+    <color name="instaconnect_header_finish">#999999</color>
+    <color name="instaconnect_header_green">#0faa14</color>
+    <color name="instaconnect_home_list_divider">#33b5b5b5</color>
+    <color name="jobs__vap_mid_desc">#ff333333</color>
+    <color name="jobs_apply1_edittext_color">#ff666666</color>
+    <color name="jobs_apply1_text_color">#ff333333</color>
+    <color name="jobs_apply_edittext_tint">#33757575</color>
+    <color name="jobs_apply_sent">#63a75c</color>
+    <color name="jobs_hp_new_broder_color">#00bb00</color>
+    <color name="jobs_hp_roletext_color">#666666</color>
+    <color name="jobs_snb_premium">#ffeef3f7</color>
+    <color name="jobs_thankyou">#42b459</color>
+    <color name="jobs_vap_mid_title">#ff666666</color>
+    <color name="layout_back_gray">#e1e1e1</color>
+    <color name="layout_back_gray1">#d5d5d5</color>
+    <color name="layout_back_gray2">#aaaaaa</color>
+    <color name="layout_screen_bg">#d6d1cd</color>
+    <color name="light_grey">#939393</color>
+    <color name="make_an_offer_headrer_bg">#333333</color>
+    <color name="make_an_offer_imagetext_bg">#ffffff</color>
+    <color name="make_an_offer_line">#eeeeee</color>
+    <color name="make_an_offer_my_ads_bg">#e9f3fc</color>
+    <color name="make_an_offer_points">#bbbbbb</color>
+    <color name="make_an_offer_steps_bg">#f8f8ff</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="material_grey_100">#fff5f5f5</color>
+    <color name="material_grey_300">#ffe0e0e0</color>
+    <color name="material_grey_50">#fffafafa</color>
+    <color name="material_grey_600">#ff757575</color>
+    <color name="material_grey_800">#ff424242</color>
+    <color name="material_grey_850">#ff303030</color>
+    <color name="material_grey_900">#ff212121</color>
+    <color name="mcr_blue">#0093dd</color>
+    <color name="mcr_grey">#6b6b6b</color>
+    <color name="medium_grey">#ff999999</color>
+    <color name="menu_background">#f1f1f1</color>
+    <color name="menu_divider">#d2d2d2</color>
+    <color name="menu_space">#e2e2e2</color>
+    <color name="multi_cityapply">#ff008bcf</color>
+    <color name="multi_citycancel">#ff565a57</color>
+    <color name="multi_cityhome_color">#de333333</color>
+    <color name="multi_cityshop_color">#de666666</color>
+    <color name="myaccount_statusbar">#136692</color>
+    <color name="navdrawer_overlay">#80000000</color>
+    <color name="navdrawer_selection">#8ceeeeee</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="navigation_item_hover_select">#f3f3f3</color>
+    <color name="no_internet_connection">#d75350</color>
+    <color name="notif_blue">#a0a9ba</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="notification_text">#4e4e4e</color>
+    <color name="onboard">#023d5b</color>
+    <color name="orange">#ff9900</color>
+    <color name="panel_background">#ff011726</color>
+    <color name="partial_payment_strp_bg">#aeaeae</color>
+    <color name="photo_adtype_head">#85c226</color>
+    <color name="photo_subcat_head">#343434</color>
+    <color name="place_autocomplete_prediction_primary_text">#212121</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
+    <color name="place_autocomplete_prediction_secondary_text">#757575</color>
+    <color name="place_autocomplete_search_hint">#bdbdbd</color>
+    <color name="place_autocomplete_search_text">#212121</color>
+    <color name="place_autocomplete_separator">#1f000000</color>
+    <color name="pml_max_bucket">#555</color>
+    <color name="pml_normal_bucket">#eee</color>
+    <color name="pml_text_color">#5294ca</color>
+    <color name="post_ad_button_text">#666666</color>
+    <color name="post_ad_button_yellow">#f5d700</color>
+    <color name="post_ad_button_yellow_pressed">#dcc200</color>
+    <color name="post_ad_cover_banner_bg_color">#d93ab549</color>
+    <color name="post_ad_heading_blue">#007dd7</color>
+    <color name="premium_green">#ff43b544</color>
+
+    <color name="primary_dark_material_light">@color/material_grey_600</color>
+    <color name="primary_material_dark">@color/material_grey_900</color>
+    <color name="primary_material_light">@color/material_grey_100</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#de000000</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="productAddedTransparentScreen">#d9000000</color>
+    <color name="promotion_banner_txt_color">#0081bd</color>
+    <color name="qb_tab_text_normal">#ffff</color>
+    <color name="qb_tab_text_selected">#fff</color>
+    <color name="quikrXOutOfStockBackground">#f2f2f2</color>
+    <color name="quikr_logo_blue">#007fbf</color>
+    <color name="quikr_logo_green">#3ab549</color>
+    <color name="quikrxMyCartListBackground">#efefef</color>
+    <color name="quikrx_background_tint">#cccccc</color>
+    <color name="quikrx_continue_green">#0faa13</color>
+    <color name="quikrx_divider">#cacaca</color>
+    <color name="quikrx_divider_grey">#999999</color>
+    <color name="quikrx_error_red">#ec3434</color>
+    <color name="quikrx_grey_hint">#888888</color>
+    <color name="quikrx_light_grey">#666666</color>
+    <color name="quikrx_out_of_stock_red">#932122</color>
+    <color name="quikrx_perc_green">#1fa824</color>
+    <color name="quikrx_phones_disc">#0faa13</color>
+    <color name="quikrx_price_blue">#008bcf</color>
+    <color name="quikrx_price_decrease_green">#38b64a</color>
+    <color name="quikrx_price_increase_red">#9b2324</color>
+    <color name="quikrx_price_strike">#807f7f</color>
+    <color name="quikrx_product_divider_grey">#eae9e9</color>
+    <color name="quikrx_product_price_grey">#555555</color>
+    <color name="quikrx_strike_grey">#959494</color>
+    <color name="quikrx_sub_title_light_grey">#666666</color>
+    <color name="quikrx_tab_background">#f3f3f3</color>
+    <color name="quikrx_title_dark_grey">#333333</color>
+    <color name="re_description_expandable">#008bcf</color>
+    <color name="re_filter_amenities_and_furnish_option_text_black">#3d3d3d</color>
+    <color name="re_filter_amenities_and_furnish_option_text_blue">#4170cd</color>
+    <color name="re_project_location">#666666</color>
+    <color name="re_search_text_bg">#999999</color>
+    <color name="re_semi_transparent_black_bg">#80000000</color>
+    <color name="re_send_query_blue">#008bcf</color>
+    <color name="re_send_query_text_color">#017ebe</color>
+    <color name="red">#ffff0000</color>
+    <color name="red_color">#ff0000</color>
+    <color name="ripple_blue">#005c8b</color>
+    <color name="ripple_green">#0d8d11</color>
+    <color name="ripple_grey">#dddddd</color>
+    <color name="ripple_grey_stroke">#dddddd</color>
+    <color name="ripple_material_dark">#33ffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="ripple_yellow">#e8d521</color>
+    <color name="search_et_bg">#00000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="selection_ripple">#eeeeee</color>
+    <color name="service_type_green">#ff14c166</color>
+    <color name="services_book_now_dark_green_bullets">#ff666666</color>
+    <color name="services_button_green">#199e10</color>
+    <color name="snb_jobs_info_color">#333333</color>
+    <color name="snb_jobs_info_holder_color">#666666</color>
+    <color name="snb_jobs_title_color">#0073c0</color>
+    <color name="snb_more_seperator">#d8d8d8</color>
+    <color name="sold_status_bkg">#ffffc7</color>
+    <color name="subheading_dark_gray">#535353</color>
+    <color name="switch_thumb_disabled_material_dark">#ff616161</color>
+    <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
+    <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="text_blue">#007fbf</color>
+    <color name="text_color">#000000</color>
+    <color name="text_dark_grey">#333333</color>
+    <color name="text_light_grey">#999999</color>
+    <color name="theme_accent">#008bcf</color>
+    <color name="theme_accent_escrow">#ffa7a9ac</color>
+    <color name="theme_primary">#ff007ebe</color>
+    <color name="theme_primary_dark">#006598</color>
+    <color name="theme_text_color">#000</color>
+    <color name="unboxedTextBackground">#cc0faa13</color>
+    <color name="user_profile_with_in_vap">#0094da</color>
+    <color name="valid_button_green">#00aa00</color>
+    <color name="vap_amenities_bg">#f4f4f4</color>
+    <color name="vap_amenities_text_color">#0073c0</color>
+    <color name="vap_page_separator">#dedede</color>
+    <color name="verify_contact_number">#0093dd</color>
+    <color name="whiteOverlay">#80ffffff</color>
+    <color name="window_background">#ebebeb</color>
+    <color name="yellow">#fffa00</color>
+    <color name="yellow_brand">#f5d700</color>
+</resources>
